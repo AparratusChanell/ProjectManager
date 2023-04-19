@@ -25,24 +25,24 @@
 
 > Start-up Window
 
-<img src = "https://imgur.com/a/hD9oQa5" height = "80%" width = "80%" alt = "Start-up window">
+<img src = "https://i.imgur.com/OcCiEsL.png" height = "80%" width = "80%" alt = "Start-up window">
 
 > Project Dashboard
 
-<img src = "https://imgur.com/a/XVnW7vL" height = "80%" width = "80%" alt = "Project Dashboard">
+<img src = "https://i.imgur.com/aPYqONV.png" height = "80%" width = "80%" alt = "Project Dashboard">
 
 > Debt Frame
 
-<img src = "https://imgur.com/a/7rxSwmK" height = "80%" width = "80%" alt = "Debt Frame">
+<img src = "https://i.imgur.com/MLgf8wX.png" height = "80%" width = "80%" alt = "Debt Frame">
 
 > Inventory Frame
 
-<img src = "https://imgur.com/a/F08DAne" height = "80%" width = "80%" alt = "Inventory Frame">
+<img src = "https://i.imgur.com/wIlFaSQ.png" height = "80%" width = "80%" alt = "Inventory Frame">
 
 > Files Frame
 
-<img src = "https://imgur.com/a/qBOKlMR" height = "80%" width = "80%" alt = "Files Frame">
+<img src = "https://i.imgur.com/huUZDfg.png" height = "80%" width = "80%" alt = "Files Frame">
 
 > Employees Frame
 
-<img src = "https://imgur.com/a/H2d3vAj" height = "80%" width = "80%" alt = "Employees Frame">
+<img src = "https://i.imgur.com/u4BYwHZ.png" height = "80%" width = "80%" alt = "Employees Frame">
