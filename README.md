@@ -21,7 +21,7 @@
 - Java (JDK 11 / LTS)
 - H2 Database (h2-2.1.214)
 
-<h3>Program Screen Shots</h3>
+<h3>Sample Application Screen Shots</h3>
 
 > Start-up Window
 
