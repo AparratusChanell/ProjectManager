@@ -18,8 +18,8 @@
 
 <h3>Development Tools</h3>
 
-- Java (JDK 11 / LTS)
-- H2 Database (h2-2.1.214)
+- Java (JDK-11)
+- H2 Database (H2-2.1.214)
 
 <h3>Sample Application Screen Shots</h3>
 
